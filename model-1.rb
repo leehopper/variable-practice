@@ -1,4 +1,4 @@
-# A Ski Resort!
+# Ski Patrol Plan
 
 # Variables that use strings
 location = "Vail"
@@ -16,3 +16,6 @@ covid_restrictions = true
 
 # Variables that use arrays
 ski_patrol_staff = ['Bill', 'Natalie', 'Tom']
+
+# Variables that use hashes
+order_lifts_open = {'Little Eagle', 'Cascade Village'}
