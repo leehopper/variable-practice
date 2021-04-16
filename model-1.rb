@@ -13,3 +13,6 @@ reservations = 20000
 # Variables that use booleans
 holiday_weekend = true
 covid_restrictions = true
+
+# Variables that use arrays
+ski_patrol_staff = ['Bill', 'Natalie', 'Tom']
