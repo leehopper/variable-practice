@@ -9,3 +9,7 @@ conditions = "Snowing"
 inches_of_fresh_snow = 10
 lifts_open = 20
 reservations = 20000
+
+# Variables that use booleans
+holiday_weekend = true
+covid_restrictions = true
